@@ -1,0 +1,5 @@
+*.txt
+txt
+.*.un~
+default.html
+.DS_Store
